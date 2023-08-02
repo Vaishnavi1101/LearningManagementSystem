@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+  }
+  .car
+  {
+    font-size: 40px;
+      padding: 15px;
+      color: white;
+      
+      font-weight: bolder;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      
+  }  
+  body{
+    background-color: black;
+  }
+  .tag{
+    color: white;
+  }
+  .card-header{
+    color: white;
+  }
+  .card-body{
+    color: white;
+  }
+

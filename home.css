@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.this{
+    margin: 5px;
+}
+
+.pra{
+    margin-left: 38em;
+}
+
+.div{
+    height: 30vh;;
+    width: 90vw;
+    background-color: paleturquoise;
+}
+.flex{
+    display: flex;
+}
+.card{
+    padding: 8px;
+    margin: 8px;
+}
+.carde{
+    margin-right: 15em;
+    margin-left: 15em;
+}

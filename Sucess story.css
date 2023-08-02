@@ -1,0 +1,26 @@
+img, svg {
+    vertical-align: middle;
+    width: 632px;
+    padding: 35px;
+}
+.h{
+    text-align: center;
+    text-decoration: solid;
+ margin-top: 10px;
+ margin-bottom: 1px;
+ color: gold;
+}
+/* for searching hed */
+.forrm{
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.me-2 {
+    margin-right: 40.5rem!important;
+}
+a{
+    padding: 5px;
+}
+
